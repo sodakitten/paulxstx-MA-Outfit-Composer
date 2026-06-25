@@ -1,4 +1,4 @@
-﻿# paulxstx Outfit Composer
+# paulxstx Outfit Composer
 
 <p align="center">
   <b>Universal Mix & Match Outfit Generator for VRChat Avatars</b>
@@ -28,12 +28,6 @@
 ---
 
 ## 📦 Installation
-
-### Option 1: VCC (Coming Soon)
-
-```
-Not yet available on VCC.
-```
 
 ### Option 2: Manual Install
 
@@ -105,12 +99,6 @@ Upload your avatar as normal. The menu is bundled automatically. Enable "Build o
 ## 👤 Author
 
 **paulxstx**
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 

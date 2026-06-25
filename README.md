@@ -1,4 +1,4 @@
-﻿# paulxstx · MA万能混搭生成器
+# paulxstx · MA万能混搭生成器
 
 <p align="center">
   <b>paulxstx Outfit Composer — Universal Mix & Match for VRChat Avatars</b>
@@ -28,12 +28,6 @@
 ---
 
 ## 📦 安装
-
-### 方式一：VCC (推荐)
-
-```
-暂未上架 VCC，敬请期待。
-```
 
 ### 方式二：手动安装
 
@@ -170,12 +164,6 @@ LastOp（Last Operation / 最后一次操作）是本插件的核心机制：插
 ## 👤 作者
 
 **paulxstx**
-
----
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](./LICENSE) 文件。
 
 ---
 
