@@ -1,13 +1,13 @@
 [📖 English](README_EN.md) | [📖 日本語](README_JP.md)
 
-# Paulxstx · MA万能混搭生成器
+# Paulxstx · MA万能换装
 
 <p align="center">
-  <b>Paulxstx Outfit Composer — Universal Mix & Match for VRChat Avatars</b>
+  <b>Paulxstx MA Outfit Composer</b>
 </p>
 
 <p align="center">
-  基于 <a href="https://modular-avatar.nadena.dev/">Modular Avatar</a> 的 VRChat 角色一键换装与万能混搭菜单生成器。<br/>
+  基于 Modular Avatar 的 VRChat 角色一键换装与混搭菜单生成器。<br/>
   全中文 Inspector 界面 · 零代码配置 · 上传即用。
 </p>
 
@@ -55,9 +55,9 @@
 
 选中角色根节点（Avatar Root），通过以下任一方式添加：
 
-- 菜单栏 → `Tools/最终操作换装/给选中角色添加通用混搭生成器`
-- 右键 Hierarchy → `最终操作换装/添加通用混搭换装生成器`
-- 或直接 `添加并生成通用混搭菜单` 一步到位
+- 菜单栏 → `Tools/Paulxstx 换装/给选中角色添加换装生成器`
+- 右键 Hierarchy → `Paulxstx 换装/添加换装生成器`
+- 或直接 `添加并生成菜单` 一步到位
 
 ### 2. 配置套装与混搭
 

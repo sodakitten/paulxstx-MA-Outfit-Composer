@@ -1,6 +1,6 @@
 [📖 中文版本](README.md) | [📖 日本語](README_JP.md)
 
-# Paulxstx Outfit Composer
+# Paulxstx MA Outfit Composer
 
 <p align="center">
   <b>Universal Mix & Match Outfit Generator for VRChat Avatars</b>
