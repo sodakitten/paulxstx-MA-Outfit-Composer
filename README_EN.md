@@ -1,6 +1,6 @@
-﻿[📖 中文版本](README.md) | [📖 日本語](README_JP.md)
+[📖 中文版本](README.md) | [📖 日本語](README_JP.md)
 
-# paulxstx Outfit Composer
+# Paulxstx Outfit Composer
 
 <p align="center">
   <b>Universal Mix & Match Outfit Generator for VRChat Avatars</b>
@@ -165,7 +165,7 @@ Click **"冲突检测 / 配置检查"** (Conflict Detection) to check for:
 
 ## 👤 Author
 
-**paulxstx** (GitHub: [@sodakitten](https://github.com/sodakitten))
+**Paulxstx** (GitHub: [@sodakitten](https://github.com/sodakitten))
 
 ---
 

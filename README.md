@@ -1,9 +1,9 @@
 [📖 English](README_EN.md) | [📖 日本語](README_JP.md)
 
-# paulxstx · MA万能混搭生成器
+# Paulxstx · MA万能混搭生成器
 
 <p align="center">
-  <b>paulxstx Outfit Composer — Universal Mix & Match for VRChat Avatars</b>
+  <b>Paulxstx Outfit Composer — Universal Mix & Match for VRChat Avatars</b>
 </p>
 
 <p align="center">
@@ -165,7 +165,7 @@ LastOp（Last Operation / 最后一次操作）是本插件的核心机制：插
 
 ## 👤 作者
 
-**paulxstx**（GitHub: [@sodakitten](https://github.com/sodakitten)）
+**Paulxstx**（GitHub: [@sodakitten](https://github.com/sodakitten)）
 
 ---
 

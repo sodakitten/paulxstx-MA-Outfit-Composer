@@ -1,15 +1,15 @@
-{
-  "name": "com.paulxstx.last-op-outfit-cn",
-  "displayName": "最终操作换装生成器",
-  "version": "2.1.23",
-  "unity": "2022.3",
-  "description": "检查器全量中文显示与排版优化：手动绘制套装/混搭选项、默认混搭、物体列表和关闭部件列表，减少 Unity 默认列表造成的英文字段与拥挤布局。",
-  "keywords": [
-    "vrchat",
-    "avatar",
-    "modular-avatar",
-    "outfit",
-    "中文",
-    "MA插槽"
-  ]
+﻿{
+    "name":  "com.paulxstx.last-op-outfit-cn",
+    "displayName":  "最终操作换装生成器",
+    "version":  "2.1.23",
+    "unity":  "2022.3",
+    "description":  "检查器全量中文显示与排版优化：手动绘制套装/混搭选项、默认混搭、物体列表和关闭部件列表，减少 Unity 默认列表造成的英文字段与拥挤布局。",
+    "keywords":  [
+                     "vrchat",
+                     "avatar",
+                     "modular-avatar",
+                     "outfit",
+                     "中文",
+                     "MA插槽"
+                 ]
 }

@@ -1,6 +1,6 @@
-﻿[📖 中文版本](README.md) | [📖 English](README_EN.md)
+[📖 中文版本](README.md) | [📖 English](README_EN.md)
 
-# paulxstx アウトフィットコンポーザー
+# Paulxstx アウトフィットコンポーザー
 
 <p align="center">
   <b>VRChatアバター向けユニバーサルミックス＆マッチ衣装ジェネレーター</b>
@@ -165,7 +165,7 @@ Inspector下部の **"冲突检测 / 配置检查"**（競合検出）で以下�
 
 ## 👤 作者
 
-**paulxstx**（GitHub: [@sodakitten](https://github.com/sodakitten)）
+**Paulxstx**（GitHub: [@sodakitten](https://github.com/sodakitten)）
 
 ---
 
