@@ -1,3 +1,5 @@
+[📖 中文版本](README.md)
+
 # paulxstx Outfit Composer
 
 <p align="center">

@@ -1,3 +1,5 @@
+[📖 English Version](README_EN.md)
+
 # paulxstx · MA万能混搭生成器
 
 <p align="center">
