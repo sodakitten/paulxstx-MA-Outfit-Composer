@@ -1,0 +1,15 @@
+﻿{
+    "name":  "com.paulxstx.last-op-outfit-en",
+    "displayName":  "Paulxstx MA Outfit Composer",
+    "version":  "2.1.23",
+    "unity":  "2022.3",
+    "description":  "Fully localized Inspector UI with hand-drawn Super Switch/Mix options, default mix, object lists, and close part lists.",
+    "keywords":  [
+                     "vrchat",
+                     "avatar",
+                     "modular-avatar",
+                     "outfit",
+                     "English",
+                     "MA plugin"
+                 ]
+}

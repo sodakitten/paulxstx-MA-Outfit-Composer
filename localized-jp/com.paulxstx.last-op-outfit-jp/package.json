@@ -1,0 +1,15 @@
+﻿{
+    "name":  "com.paulxstx.last-op-outfit-jp",
+    "displayName":  "Paulxstx MA コーディネーター",
+    "version":  "2.1.23",
+    "unity":  "2022.3",
+    "description":  "Modular AvatarベースのVRChatアバター向け衣装切替・ミックス＆マッチメニュージェネレーター。完全中国語ローカライズInspector UI。",
+    "keywords":  [
+                     "vrchat",
+                     "avatar",
+                     "modular-avatar",
+                     "outfit",
+                     "日本語",
+                     "MAプラグイン"
+                 ]
+}
