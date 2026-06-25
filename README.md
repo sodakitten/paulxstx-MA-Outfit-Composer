@@ -1,4 +1,4 @@
-[📖 English Version](README_EN.md)
+[📖 English](README_EN.md) | [📖 日本語](README_JP.md)
 
 # paulxstx · MA万能混搭生成器
 
