@@ -98,7 +98,7 @@ Upload your avatar as normal. The menu is bundled automatically. Enable "Build o
 
 ## 👤 Author
 
-**paulxstx**
+**paulxstx** (GitHub: [@sodakitten](https://github.com/sodakitten))
 
 ---
 

@@ -163,7 +163,7 @@ LastOp（Last Operation / 最后一次操作）是本插件的核心机制：插
 
 ## 👤 作者
 
-**paulxstx**
+**paulxstx**（GitHub: [@sodakitten](https://github.com/sodakitten)）
 
 ---
 
